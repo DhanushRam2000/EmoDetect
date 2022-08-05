@@ -7,16 +7,13 @@ VGG16 neural network model trained on FER2013 dataset is used for emotion detect
 Emotions detected - Happy, sad, anger, suprise, neutral, disgust, fear
 
 Emotion detection
-
     VGG16 Neural Network
     Dependencies - numpy, cv2, tensorflow
 
 Backend
-
     Flask
 
 Frontend
-
     HTML, CSS, JS
 
 Steps to start the app locally
